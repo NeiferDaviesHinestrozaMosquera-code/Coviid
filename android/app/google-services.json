@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "789501439946",
+    "project_id": "coviid-a6261",
+    "storage_bucket": "coviid-a6261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789501439946:android:57c8124526357c44e26933",
+        "android_client_info": {
+          "package_name": "com.example.coviidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789501439946-no5ocrt8otvh2fh3aecelbmjjlav3h4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coviidapp",
+            "certificate_hash": "7ada42884747db8c08cedc2cc5b406e6836df2ba"
+          }
+        },
+        {
+          "client_id": "789501439946-d8imp0ri56k9fq3nt762l82gdeo0m6pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTjUeOEd-DpYJdfG_5PlqHY2whHxy4x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789501439946-d8imp0ri56k9fq3nt762l82gdeo0m6pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
